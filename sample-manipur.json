@@ -1,0 +1,56 @@
+{
+  "state": "MANIPUR",
+  "state_h": "मणिपुर",
+  "totalSeats": 60,
+  "parties": [
+    { "name": "BJP", "color": "#FF9933" },
+    { "name": "NPP", "color": "#2ecc71" },
+    { "name": "NPF", "color": "#28166f" },
+    { "name": "INC", "color": "#4D78D7" },
+    { "name": "OTH", "color": "#7f8c8d" }
+  ],
+  "alliances": [
+    {
+      "name": "NDA",
+      "color": "#FF9933",
+      "parties": ["BJP", "NPP", "NPF"]
+    },
+    {
+      "name": "INDIA",
+      "color": "#4D78D7",
+      "parties": ["INC"]
+    }
+  ],
+  "data": [
+    {
+      "party": "BJP",
+      "candidate": "N. Biren Singh",
+      "status": "won",
+      "constituency": "Heingang"
+    },
+    {
+      "party": "NPP",
+      "candidate": "Yumnam Joykumar Singh",
+      "status": "lost",
+      "constituency": "Uripok"
+    },
+    {
+      "party": "NPF",
+      "candidate": "Awangbow Newmai",
+      "status": "won",
+      "constituency": "Tamei"
+    },
+    {
+      "party": "INC",
+      "candidate": "Okram Ibobi Singh",
+      "status": "won",
+      "constituency": "Thoubal"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Thongam Biswajit Singh",
+      "status": "won",
+      "constituency": "Thongju"
+    }
+  ]
+}

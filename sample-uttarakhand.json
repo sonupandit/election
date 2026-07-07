@@ -1,0 +1,54 @@
+{
+  "state": "UTTARAKHAND",
+  "state_h": "उत्तराखंड",
+  "totalSeats": 70,
+  "parties": [
+    { "name": "BJP", "color": "#FF9933" },
+    { "name": "INC", "color": "#4D78D7" },
+    { "name": "OTH", "color": "#7f8c8d" }
+  ],
+  "alliances": [
+    {
+      "name": "NDA",
+      "color": "#FF9933",
+      "parties": ["BJP"]
+    },
+    {
+      "name": "INDIA",
+      "color": "#4D78D7",
+      "parties": ["INC"]
+    }
+  ],
+  "data": [
+    {
+      "party": "BJP",
+      "candidate": "Pushkar Singh Dhami",
+      "status": "lost",
+      "constituency": "Khatima"
+    },
+    {
+      "party": "INC",
+      "candidate": "Harish Rawat",
+      "status": "lost",
+      "constituency": "Lalkuan"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Satpal Maharaj",
+      "status": "won",
+      "constituency": "Chaubattakhal"
+    },
+    {
+      "party": "INC",
+      "candidate": "Yashpal Arya",
+      "status": "won",
+      "constituency": "Bajpur"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Madan Kaushik",
+      "status": "won",
+      "constituency": "Haridwar"
+    }
+  ]
+}

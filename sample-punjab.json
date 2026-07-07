@@ -1,0 +1,76 @@
+{
+  "state": "PUNJAB",
+  "state_h": "पंजाब",
+  "totalSeats": 117,
+  "parties": [
+    { "name": "AAP", "color": "#0045AA" },
+    { "name": "INC", "color": "#4D78D7" },
+    { "name": "SAD", "color": "#ffc107" },
+    { "name": "BJP", "color": "#FF9933" },
+    { "name": "OTH", "color": "#7f8c8d" }
+  ],
+  "alliances": [
+    {
+      "name": "INDIA",
+      "color": "#4D78D7",
+      "parties": ["AAP", "INC"]
+    },
+    {
+      "name": "NDA",
+      "color": "#FF9933",
+      "parties": ["BJP"]
+    },
+    {
+      "name": "SAD",
+      "color": "#ffc107",
+      "parties": ["SAD"]
+    }
+  ],
+  "data": [
+    {
+      "party": "AAP",
+      "candidate": "Bhagwant Mann",
+      "status": "won",
+      "constituency": "Dhuri",
+      "isVip": true
+    },
+    {
+      "party": "INC",
+      "candidate": "Charanjit Singh Channi",
+      "status": "lost",
+      "constituency": "Bhadaur",
+      "isVip": true
+    },
+    {
+      "party": "SAD",
+      "candidate": "Sukhbir Singh Badal",
+      "status": "lost",
+      "constituency": "Jalalabad",
+      "isVip": true
+    },
+    {
+      "party": "BJP",
+      "candidate": "Ashwani Kumar Sharma",
+      "status": "won",
+      "constituency": "Pathankot"
+    },
+    {
+      "party": "AAP",
+      "candidate": "Harpal Singh Cheema",
+      "status": "won",
+      "constituency": "Dirba"
+    },
+    {
+      "party": "AAP",
+      "candidate": "Aman Arora",
+      "status": "won",
+      "constituency": "Sunam"
+    },
+    {
+      "party": "INC",
+      "candidate": "Pratap Singh Bajwa",
+      "status": "won",
+      "constituency": "Qadian"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "state": "GOA",
+  "state_h": "गोवा",
+  "totalSeats": 40,
+  "parties": [
+    { "name": "BJP", "color": "#FF9933" },
+    { "name": "INC", "color": "#4D78D7" },
+    { "name": "AAP", "color": "#0045AA" },
+    { "name": "MGP", "color": "#e67e22" },
+    { "name": "OTH", "color": "#7f8c8d" }
+  ],
+  "alliances": [
+    {
+      "name": "NDA",
+      "color": "#FF9933",
+      "parties": ["BJP", "MGP"]
+    },
+    {
+      "name": "INDIA",
+      "color": "#4D78D7",
+      "parties": ["INC", "AAP"]
+    }
+  ],
+  "data": [
+    { "party": "BJP", "candidate": "Pramod Sawant", "status": "won", "constituency": "Sanquelim", "isVip": true },
+    { "party": "INC", "candidate": "Digambar Kamat", "status": "won", "constituency": "Margao", "isVip": true },
+    { "party": "BJP", "candidate": "Vishwajit Rane", "status": "won", "constituency": "Valpoi" },
+    { "party": "AAP", "candidate": "Amit Palekar", "status": "lost", "constituency": "Santa Cruz" },
+    { "party": "MGP", "candidate": "Sudin Dhavalikar", "status": "won", "constituency": "Marcaim" },
+    { "party": "BJP", "candidate": "BJP Candidate 3", "status": "won", "constituency": "Panaji" },
+    { "party": "BJP", "candidate": "BJP Candidate 4", "status": "won", "constituency": "Taleigao" },
+    { "party": "BJP", "candidate": "BJP Candidate 5", "status": "won", "constituency": "St. Andre" },
+    { "party": "BJP", "candidate": "BJP Candidate 6", "status": "won", "constituency": "Cumbarjua" },
+    { "party": "BJP", "candidate": "BJP Candidate 7", "status": "won", "constituency": "Maem" },
+    { "party": "BJP", "candidate": "BJP Candidate 8", "status": "won", "constituency": "Bicholim" },
+    { "party": "BJP", "candidate": "BJP Candidate 9", "status": "won", "constituency": "Pernem" },
+    { "party": "BJP", "candidate": "BJP Candidate 10", "status": "won", "constituency": "Mandrem" },
+    { "party": "BJP", "candidate": "BJP Candidate 11", "status": "won", "constituency": "Siolim" },
+    { "party": "BJP", "candidate": "BJP Candidate 12", "status": "won", "constituency": "Saligao" },
+    { "party": "BJP", "candidate": "BJP Candidate 13", "status": "won", "constituency": "Calangute" },
+    { "party": "BJP", "candidate": "BJP Candidate 14", "status": "won", "constituency": "Aldona" },
+    { "party": "BJP", "candidate": "BJP Candidate 15", "status": "won", "constituency": "Mapusa" },
+    { "party": "BJP", "candidate": "BJP Candidate 16", "status": "won", "constituency": "Tivim" },
+    { "party": "BJP", "candidate": "BJP Candidate 17", "status": "won", "constituency": "Ponda" },
+    { "party": "MGP", "candidate": "MGP Candidate 2", "status": "won", "constituency": "Priol" },
+    { "party": "INC", "candidate": "INC Candidate 2", "status": "won", "constituency": "Siroda" },
+    { "party": "INC", "candidate": "INC Candidate 3", "status": "won", "constituency": "Madkai" },
+    { "party": "INC", "candidate": "INC Candidate 4", "status": "won", "constituency": "Mormugao" },
+    { "party": "INC", "candidate": "INC Candidate 5", "status": "won", "constituency": "Vasco da Gama" },
+    { "party": "INC", "candidate": "INC Candidate 6", "status": "won", "constituency": "Dabolim" },
+    { "party": "INC", "candidate": "INC Candidate 7", "status": "won", "constituency": "Cortalim" },
+    { "party": "INC", "candidate": "INC Candidate 8", "status": "won", "constituency": "Nuvem" },
+    { "party": "INC", "candidate": "INC Candidate 9", "status": "won", "constituency": "Curtorim" },
+    { "party": "INC", "candidate": "INC Candidate 10", "status": "won", "constituency": "Fatorda" },
+    { "party": "INC", "candidate": "INC Candidate 11", "status": "won", "constituency": "Benaulim" },
+    { "party": "INC", "candidate": "INC Candidate 12", "status": "won", "constituency": "Navelim" },
+    { "party": "INC", "candidate": "INC Candidate 13", "status": "won", "constituency": "Cuncolim" },
+    { "party": "INC", "candidate": "INC Candidate 14", "status": "won", "constituency": "Velim" },
+    { "party": "INC", "candidate": "INC Candidate 15", "status": "won", "constituency": "Quepem" },
+    { "party": "AAP", "candidate": "AAP Candidate 2", "status": "won", "constituency": "Curchorem" },
+    { "party": "AAP", "candidate": "AAP Candidate 3", "status": "won", "constituency": "Sanvordem" },
+    { "party": "AAP", "candidate": "AAP Candidate 4", "status": "won", "constituency": "Sanguem" },
+    { "party": "OTH", "candidate": "OTH Candidate 1", "status": "won", "constituency": "Canacona" },
+    { "party": "OTH", "candidate": "OTH Candidate 2", "status": "won", "constituency": "Mapusa Rural" }
+  ]
+}

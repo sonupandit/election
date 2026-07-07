@@ -1,0 +1,990 @@
+{
+  "state": "UTTAR PRADESH",
+  "state_h": "उत्तर प्रदेश",
+  "totalSeats": 230,
+  "parties": [
+    { "name": "BJP", "color": "#FF9933" },
+    { "name": "SP", "color": "#018B00" },    
+    { "name": "BSP", "color": "#213E95" },
+    { "name": "RLD", "color": "#128243" },
+    { "name": "INC", "color": "#4D78D7" },
+    { "name": "OTH", "color": "#7f8c8d" }
+  ],
+  "alliances": [
+    {
+      "name": "NDA",
+      "color": "#FF9933",
+      "parties": ["BJP", "RLD"]
+    },
+    {
+      "name": "INDIA",
+      "color": "#4D78D7",
+      "parties": ["SP", "INC"]
+    }
+  ],
+  "data": [
+    {
+      "party": "BJP",
+      "candidate": "Yogi Adityanath",
+      "status": "won",
+      "constituency": "Gorakhpur Urban",
+      "isVip": true
+    },
+    {
+      "party": "SP",
+      "candidate": "Akhilesh Yadav",
+      "status": "won",
+      "constituency": "Karhal",
+      "isVip": true
+    },
+    {
+      "party": "INC",
+      "candidate": "Aradhana Misra",
+      "status": "won",
+      "constituency": "Rampur Khas",
+      "isVip": true
+    },
+    {
+      "party": "RLD",
+      "candidate": "Ajay Kumar",
+      "status": "won",
+      "constituency": "Chhaprauli"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Keshav Prasad Maurya",
+      "status": "lost",
+      "constituency": "Sirathu"
+    },
+    {
+      "party": "SP",
+      "candidate": "Shivpal Singh Yadav",
+      "status": "won",
+      "constituency": "Jaswantnagar"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Suresh Kumar Khanna",
+      "status": "won",
+      "constituency": "Shahjahanpur"
+    },
+    {
+      "party": "SP",
+      "candidate": "Azam Khan",
+      "status": "won",
+      "constituency": "Rampur"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Sidhart Nath Singh",
+      "status": "won",
+      "constituency": "Allahabad West"
+    },
+    {
+      "party": "INC",
+      "candidate": "Ajay Kumar Lallu",
+      "status": "lost",
+      "constituency": "Tamkuhi Raj"
+    },
+    {
+      "party": "BSP",
+      "candidate": "Umashankar Singh",
+      "status": "won",
+      "constituency": "Rasara"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Satish Mahana",
+      "status": "won",
+      "constituency": "Maharajpur"
+    },
+    {
+      "party": "SP",
+      "candidate": "Mehboob Ali",
+      "status": "won",
+      "constituency": "Amroha"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Shrikant Sharma",
+      "status": "won",
+      "constituency": "Mathura"
+    },
+    {
+      "party": "SP",
+      "candidate": "Lalji Verma",
+      "status": "won",
+      "constituency": "Katehari"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Dara Singh Chauhan",
+      "status": "leading",
+      "constituency": "Ghosi"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Baby Rani Maurya",
+      "status": "won",
+      "constituency": "Agra Rural"
+    },
+    {
+      "party": "SP",
+      "candidate": "Ram Govind Chaudhary",
+      "status": "leading",
+      "constituency": "Bansdih"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Asim Arun",
+      "status": "won",
+      "constituency": "Kannauj"
+    },
+    {
+      "party": "SP",
+      "candidate": "Iqbal Mehmood",
+      "status": "won",
+      "constituency": "Sambhal"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Nand Gopal Gupta Nandi",
+      "status": "won",
+      "constituency": "Allahabad South"
+    },
+    {
+      "party": "RLD",
+      "candidate": "Rajpal Singh Balyan",
+      "status": "won",
+      "constituency": "Budhana"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Jitin Prasada",
+      "status": "won",
+      "constituency": "Tilhar"
+    },
+    {
+      "party": "SP",
+      "candidate": "Manoj Kumar Pandey",
+      "status": "won",
+      "constituency": "Unchahar"
+    },
+    {
+      "party": "SP",
+      "candidate": "Manoj Kumar Pandey",
+      "status": "won",
+      "constituency": "Unchahar"
+    },
+    {
+      "party": "SP",
+      "candidate": "Manoj Kumar Pandey",
+      "status": "won",
+      "constituency": "Unchahar"
+    },
+    {
+      "party": "SP",
+      "candidate": "Manoj Kumar Pandey",
+      "status": "won",
+      "constituency": "Unchahar"
+    },
+    {
+      "party": "SP",
+      "candidate": "Manoj Kumar Pandey",
+      "status": "won",
+      "constituency": "Unchahar"
+    },
+    {
+      "party": "SP",
+      "candidate": "Manoj Kumar Pandey",
+      "status": "won",
+      "constituency": "Unchahar"
+    },
+    {
+      "party": "SP",
+      "candidate": "Manoj Kumar Pandey",
+      "status": "won",
+      "constituency": "Unchahar"
+    },
+    {
+      "party": "SP",
+      "candidate": "Manoj Kumar Pandey",
+      "status": "won",
+      "constituency": "Unchahar"
+    },
+    {
+      "party": "SP",
+      "candidate": "Manoj Kumar Pandey",
+      "status": "won",
+      "constituency": "Unchahar"
+    },
+    {
+      "party": "SP",
+      "candidate": "Manoj Kumar Pandey",
+      "status": "won",
+      "constituency": "Unchahar"
+    },
+    {
+      "party": "SP",
+      "candidate": "Manoj Kumar Pandey",
+      "status": "won",
+      "constituency": "Unchahar"
+    },
+    {
+      "party": "SP",
+      "candidate": "Manoj Kumar Pandey",
+      "status": "won",
+      "constituency": "Unchahar"
+    },
+    {
+      "party": "SP",
+      "candidate": "Manoj Kumar Pandey",
+      "status": "won",
+      "constituency": "Unchahar"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Sandip Singh",
+      "status": "won",
+      "constituency": "Atrali"
+    },
+    {
+      "party": "SP",
+      "candidate": "Syed Syeda",
+      "status": "leading",
+      "constituency": "Matera"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Rajeshwar Singh",
+      "status": "won",
+      "constituency": "Sarojini Nagar"
+    },
+    {
+      "party": "SP",
+      "candidate": "Naresh Uttam Patel",
+      "status": "won",
+      "constituency": "Jahanabad"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Dayashankar Singh",
+      "status": "won",
+      "constituency": "Ballia Nagar"
+    },
+    {
+      "party": "BSP",
+      "candidate": "Bhura Malik",
+      "status": "leading",
+      "constituency": "Loni"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Amit Agarwal",
+      "status": "won",
+      "constituency": "Meerut Cantt"
+    },
+    {
+      "party": "SP",
+      "candidate": "Rafiq Ansari",
+      "status": "won",
+      "constituency": "Meerut"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Kapil Dev Aggarwal",
+      "status": "won",
+      "constituency": "Muzaffarnagar"
+    },
+    {
+      "party": "RLD",
+      "candidate": "Prasanna Kumar",
+      "status": "won",
+      "constituency": "Shamli"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Mayankeshwar Sharan Singh",
+      "status": "won",
+      "constituency": "Tiloia"
+    },
+    {
+      "party": "SP",
+      "candidate": "Pooja Pal",
+      "status": "won",
+      "constituency": "Chail"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Pankaj Singh",
+      "status": "won",
+      "constituency": "Noida"
+    },
+    {
+      "party": "SP",
+      "candidate": "Atul Pradhan",
+      "status": "won",
+      "constituency": "Sardhana"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Tejpal Singh Nagar",
+      "status": "won",
+      "constituency": "Dadri"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Sanjay Sharma",
+      "status": "won",
+      "constituency": "Anupshahr"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Devendra Singh Lodhi",
+      "status": "won",
+      "constituency": "Syana"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Anil Sharma",
+      "status": "won",
+      "constituency": "Shikarpur"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Meenakshi Singh",
+      "status": "won",
+      "constituency": "Khurja"
+    },
+    {
+      "party": "SP",
+      "candidate": "Ashutosh Sinha",
+      "status": "leading",
+      "constituency": "Varanasi North"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Ravindra Jaiswal",
+      "status": "won",
+      "constituency": "Varanasi North"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Neelkanth Tiwari",
+      "status": "won",
+      "constituency": "Varanasi South"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Saurabh Srivastava",
+      "status": "won",
+      "constituency": "Varanasi Cantt"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Anil Rajbhar",
+      "status": "won",
+      "constituency": "Shivpur"
+    },
+    {
+      "party": "SP",
+      "candidate": "Sanjay Latar",
+      "status": "leading",
+      "constituency": "Mant"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Meghraj Singh",
+      "status": "won",
+      "constituency": "Baraut"
+    },
+    {
+      "party": "BJP",
+      "candidate": "K.P. Singh",
+      "status": "won",
+      "constituency": "Karchhana"
+    },
+    {
+      "party": "SP",
+      "candidate": "Rajendra S. Patel",
+      "status": "won",
+      "constituency": "Marihan"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Rama Shankar Singh",
+      "status": "won",
+      "constituency": "Marihan"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Upendra Tiwari",
+      "status": "won",
+      "constituency": "Phephana"
+    },
+    {
+      "party": "SP",
+      "candidate": "Sangram Yadav",
+      "status": "won",
+      "constituency": "Atralia"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Bhupesh Chaubey",
+      "status": "won",
+      "constituency": "Robertsganj"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Sanjeev Kumar",
+      "status": "won",
+      "constituency": "Obra"
+    },
+    {
+      "party": "SP",
+      "candidate": "Avinash Kushwaha",
+      "status": "won",
+      "constituency": "Obra"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Hari Ram Shastri",
+      "status": "won",
+      "constituency": "Duddhi"
+    },
+    {
+      "party": "SP",
+      "candidate": "Vijay Singh",
+      "status": "won",
+      "constituency": "Duddhi"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Gaurishankar Shrivas",
+      "status": "won",
+      "constituency": "Maudaha"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Manisha Anuragi",
+      "status": "won",
+      "constituency": "Rath"
+    },
+    {
+      "party": "SP",
+      "candidate": "Chandrapal Yadav",
+      "status": "leading",
+      "constituency": "Babina"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Rajeev Singh Parichha",
+      "status": "won",
+      "constituency": "Babina"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Bihari Lal Arya",
+      "status": "won",
+      "constituency": "Mauranipur"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Jawahar Lal Rajput",
+      "status": "won",
+      "constituency": "Garautha"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Ramkesh Nishad",
+      "status": "won",
+      "constituency": "Banda"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Prakash Nishad",
+      "status": "won",
+      "constituency": "Hamirpur"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Shyam Sundar Singh",
+      "status": "won",
+      "constituency": "Kalpi"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Gauri Shankar",
+      "status": "won",
+      "constituency": "Madhogarh"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Salona Kushwaha",
+      "status": "won",
+      "constituency": "Tilhar"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Hari Sharan Verma",
+      "status": "won",
+      "constituency": "Bilsanda"
+    },
+    {
+      "party": "SP",
+      "candidate": "Hemraj Verma",
+      "status": "won",
+      "constituency": "Pilibhit"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Sanjay Singh Gangwar",
+      "status": "won",
+      "constituency": "Pilibhit"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Kishan Lal Raj",
+      "status": "won",
+      "constituency": "Barkhera"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Baburam Paswan",
+      "status": "won",
+      "constituency": "Puranpur"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Shashank Verma",
+      "status": "won",
+      "constituency": "Nighasan"
+    },
+    {
+      "party": "SP",
+      "candidate": "R.S. Yadav",
+      "status": "leading",
+      "constituency": "Palia"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Harwindar Kumar Sahni",
+      "status": "won",
+      "constituency": "Palia"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Arvind Giri",
+      "status": "won",
+      "constituency": "Gola Gokrannath"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Manju Tyagi",
+      "status": "won",
+      "constituency": "Srinagar"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Saurabh Singh",
+      "status": "won",
+      "constituency": "Kasta"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Lokendra Pratap Singh",
+      "status": "won",
+      "constituency": "Lakhimpur"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Yogesh Verma",
+      "status": "won",
+      "constituency": "Lakhimpur"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Utkarsh Verma",
+      "status": "won",
+      "constituency": "Lakhimpur"
+    },
+    {
+      "party": "SP",
+      "candidate": "Anand Bhadauria",
+      "status": "won",
+      "constituency": "Maholi"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Shashank Trivedi",
+      "status": "won",
+      "constituency": "Maholi"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Gyan Tiwari",
+      "status": "won",
+      "constituency": "Sevata"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Ram Saran Verma",
+      "status": "won",
+      "constituency": "Biswan"
+    },
+    {
+      "party": "SP",
+      "candidate": "Afaque Khan",
+      "status": "won",
+      "constituency": "Biswan"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Suresh Rahi",
+      "status": "won",
+      "constituency": "Hargaon"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Mahendra Singh",
+      "status": "won",
+      "constituency": "Hargaon"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Dinesh Rawat",
+      "status": "won",
+      "constituency": "Hargaon"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Ashish Kumar",
+      "status": "won",
+      "constituency": "Hargaon"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Ram Pal Verma",
+      "status": "won",
+      "constituency": "Balamau"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Rajender Singh",
+      "status": "won",
+      "constituency": "Balamau"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Vandana Singh",
+      "status": "won",
+      "constituency": "Balamau"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Rampal Singh",
+      "status": "won",
+      "constituency": "Sandila"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Alka Singh",
+      "status": "won",
+      "constituency": "Sandila"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Ashutosh Tandon",
+      "status": "won",
+      "constituency": "Lucknow East"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Brijesh Pathak",
+      "status": "won",
+      "constituency": "Lucknow Cantt"
+    },
+    {
+      "party": "SP",
+      "candidate": "Ravidas Mehrotra",
+      "status": "won",
+      "constituency": "Lucknow Central"
+    },
+    {
+      "party": "SP",
+      "candidate": "Arman Khan",
+      "status": "won",
+      "constituency": "Lucknow West"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Neeraj Bora",
+      "status": "won",
+      "constituency": "Lucknow North"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Jai Devi",
+      "status": "won",
+      "constituency": "Malihabad"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Rajeshwar Singh",
+      "status": "won",
+      "constituency": "Sarojini Nagar"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Amresh Kumar",
+      "status": "won",
+      "constituency": "Mohanlalganj"
+    },
+    {
+      "party": "SP",
+      "candidate": "Sushila Saroj",
+      "status": "won",
+      "constituency": "Malihabad"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Shrikrishna",
+      "status": "won",
+      "constituency": "Malihabad"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Prabhat Kumar",
+      "status": "won",
+      "constituency": "Malihabad"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Pooja Chaudhary",
+      "status": "won",
+      "constituency": "Malihabad"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Satish Chandra",
+      "status": "won",
+      "constituency": "Malihabad"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Ashish Singh",
+      "status": "won",
+      "constituency": "Malihabad"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Ram Avtar",
+      "status": "won",
+      "constituency": "Malihabad"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Shravan Kumar",
+      "status": "won",
+      "constituency": "Malihabad"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Ajay Singh",
+      "status": "won",
+      "constituency": "Malihabad"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Suresh Chand",
+      "status": "won",
+      "constituency": "Malihabad"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Kamla Devi",
+      "status": "won",
+      "constituency": "Malihabad"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Pushpa Devi",
+      "status": "won",
+      "constituency": "Malihabad"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Sunita Devi",
+      "status": "won",
+      "constituency": "Malihabad"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Kusum Devi",
+      "status": "won",
+      "constituency": "Malihabad"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Rama Devi",
+      "status": "won",
+      "constituency": "Malihabad"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Munni Devi",
+      "status": "won",
+      "constituency": "Malihabad"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Rajani Devi",
+      "status": "won",
+      "constituency": "Malihabad"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Maya Devi",
+      "status": "won",
+      "constituency": "Malihabad"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Gita Devi",
+      "status": "won",
+      "constituency": "Malihabad"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Champa Devi",
+      "status": "won",
+      "constituency": "Malihabad"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Laxmi Devi",
+      "status": "won",
+      "constituency": "Malihabad"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Meera Devi",
+      "status": "won",
+      "constituency": "Malihabad"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Kanti Devi",
+      "status": "won",
+      "constituency": "Malihabad"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Shanti Devi",
+      "status": "won",
+      "constituency": "Malihabad"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Urmila Devi",
+      "status": "won",
+      "constituency": "Malihabad"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Saraswati Devi",
+      "status": "won",
+      "constituency": "Malihabad"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Prem Devi",
+      "status": "won",
+      "constituency": "Malihabad"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Phool Devi",
+      "status": "won",
+      "constituency": "Malihabad"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Krishna Devi",
+      "status": "won",
+      "constituency": "Malihabad"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Vidya Devi",
+      "status": "won",
+      "constituency": "Malihabad"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Savitri Devi",
+      "status": "won",
+      "constituency": "Malihabad"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Sumitra Devi",
+      "status": "won",
+      "constituency": "Malihabad"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Draupadi Devi",
+      "status": "won",
+      "constituency": "Malihabad"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Sita Devi",
+      "status": "won",
+      "constituency": "Malihabad"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Radha Devi",
+      "status": "won",
+      "constituency": "Malihabad"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Rukmani Devi",
+      "status": "won",
+      "constituency": "Malihabad"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Nirmala Devi",
+      "status": "won",
+      "constituency": "Malihabad"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Manorama Devi",
+      "status": "won",
+      "constituency": "Malihabad"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Asha Devi",
+      "status": "won",
+      "constituency": "Malihabad"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Anita Devi",
+      "status": "won",
+      "constituency": "Malihabad"
+    },
+    {
+      "party": "BJP",
+      "candidate": "Kiran Devi",
+      "status": "won",
+      "constituency": "Malihabad"
+    }
+  ]
+}
