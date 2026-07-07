@@ -36,7 +36,7 @@ const server = http.createServer((req, res) => {
         };
 
         // Load initial data
-        const filePath = path.join(__dirname, 'public', 'data', `sample-${state}.json`);
+        const filePath = path.join(__dirname, `sample-${state}.json`);
 
         let currentData = null;
         let updateCount = 0;
