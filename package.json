@@ -3,10 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "start": "node server.cjs",
-    "build": "vite build",
-    "preview": "vite preview"
+    "start": "node server.cjs",   
   },
   "dependencies": {
     "canvas-confetti": "^1.6.0",
