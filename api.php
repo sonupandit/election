@@ -22,7 +22,7 @@ ob_implicit_flush(true);
 
 // 4. state query parameter को गेट करें
 $state = isset($_GET['state']) ? $_GET['state'] : 'up';
-$filePath = __DIR__ . "/public/data/sample-{$state}.json";
+$filePath = __DIR__ . "/sample-{$state}.json";
 
 $currentData = null;
 $updateCount = 0;
